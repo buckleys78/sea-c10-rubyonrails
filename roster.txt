@@ -1,3 +1,6 @@
 name, email, github
 Renée Hendricksen, renee@nird.us, reneedv
-Steve Buckley, steve.buckley@gerrit-tech.com, buckleys78
+Cheri Allen, cheri@nird.us, cherimarie
+Matthew Viens, Matthew.J.Viens@gmail.com, MatthewViens
+Matthew James Stephenson, Msteph@uw.edu, mjstephenson
+>>>>>>> b833447806212d5bb5853e53ba242cd7e25e5262
